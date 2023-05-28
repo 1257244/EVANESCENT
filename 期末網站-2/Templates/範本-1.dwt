@@ -27,7 +27,7 @@
             <ul>
                 <li><a href="#">食譜分享</a>
                 </li>
-                <li><a href="#">表單回饋</a>
+                <li><a href="../表單.html">表單回饋</a>
                 </li>
                 <li><a href="#">美食照片</a>
                 </li>
@@ -38,15 +38,12 @@
         </li>
         <li><a href="#">網站介紹</a>
             <ul>
-                <li><a href="#">人員介紹</a>
+                <li><a href="../humanresorce.html">人員介紹</a>
                     <ul>
-                        <li><a href="#">呂天宇</a>
-                        </li>
-                        <li><a href="#">劉子睿</a>
-                        </li>
+                        
                     </ul>
 					</li>
-				<li><a href="#">使用技巧</a>
+				<li><a href="../skill.html">使用技巧</a>
                         </li>
                    </ul>
 			 </li>

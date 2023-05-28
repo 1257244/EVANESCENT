@@ -2,15 +2,16 @@
 /* Body */
 
 body {
-	background-color: #FFFFFF;
-	background-size: cover;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: auto;
-	margin-left: 0px;
-	font-style: normal;
-	font-weight: 200;
-
+    background-color: #FFFFFF;
+    background-size: cover;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: auto;
+    margin-left: 0px;
+    font-style: normal;
+    font-weight: 200;
+    background-image: url(../img/Lovepik_com-605557839-Fantasy%20watercolor%20texture%20background%20illustration.jpg);
+    background-repeat: repeat-y;
 }
 /* Container */
 .container {
@@ -515,7 +516,6 @@ ul { /* 取消ul預設的內縮及樣式 */
     }
 
     ul.drop-down-menu {
-        border: 1px solid rgba(20,81,154,0.5);
         display: inline-block;
         font-family: 'Open Sans', Arial, sans-serif;
         font-size: 13px;

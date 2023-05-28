@@ -1,0 +1,24 @@
+@charset "utf-8";
+h1{
+    text-align: center;
+    font-size: 48px;
+    font-family: "標楷體";
+	color: #E96A27;
+}
+
+form{
+	 display: flex;
+  	justify-content: center;    
+  	align-items: center;        
+	font-family: "標楷體";
+	font-size: 26px;
+}
+
+select{
+	font-size: 26px;
+}
+
+input{
+	font-size: 26px;
+}
+
