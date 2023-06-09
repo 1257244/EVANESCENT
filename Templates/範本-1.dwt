@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>吃貨的料理小站~</title>
+<!-- TemplateEndEditable -->
+<link href="../css/singlePageTemplate.css" rel="stylesheet" type="text/css">
+
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Navigation -->
+  <header> <a href="index.html">
+    <h4 class="logo"><a href="index.html">EVANESCENT</a></h4>
+    </a>
+    <nav>
+     <ul class="drop-down-menu">
+        <li><a href="#">美食分享</a>
+            <ul>
+                <li><a href="../recipe.html">食譜分享</a>
+                </li>
+                <li><a href="../表單.html">表單回饋</a>
+                </li>
+                <li><a href="../瀑布流.html">美食照片</a>
+                </li>
+               
+            </ul>
+        </li>
+		 <li><a href="map.html">美食地圖</a>
+        </li>
+        <li><a href="#">網站介紹</a>
+            <ul>
+                <li><a href="../humanresorce.html">人員介紹</a>
+                    <ul>
+                        
+                    </ul>
+					</li>
+				<li><a href="../skill.html">使用技巧</a>
+                        </li>
+                   </ul>
+			 </li>
+		</ul>		
+    </nav>
+  </header>
+  <!-- TemplateBeginEditable name="content" -->
+  <div id="content">
+    <h1>潮玩香港</h1>
+    <h2>香港，說走就走</h2>
+    <p>文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字</p>
+    <p>文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字 </p>
+    <p>&nbsp;</p>
+  </div>
+		
+  <!-- TemplateEndEditable -->
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+		<br>
+	<br>
+		<br>
+	<br>
+	<br>
+		<br>
+		<br>
+<br>
+		<br>
+		<br>
+		<br>
+	
+  <div class="copyright">&copy;2023- <strong>EVANESCENT</strong></div>
+</div>
+	
+<!-- Main Container Ends -->
+
+</body>
+	
+</html>

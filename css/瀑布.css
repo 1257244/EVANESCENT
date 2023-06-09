@@ -1,0 +1,9 @@
+#foodphoto{
+    column-count: 3;
+    column-gap: 10px;
+    width:auto; 
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+  }
